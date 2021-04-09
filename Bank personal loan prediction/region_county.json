@@ -1,0 +1,80 @@
+{
+    "Superior California": [
+        "Butte County",
+        "Colusa County",
+        "El Dorado County",
+        "Glenn County",
+        "Lassen County",
+        "Modoc County",
+        "Nevada County",
+        "Placer County",
+        "Plumas County",
+        "Sacramento County",
+        "Shasta County",
+        "Sierra County",
+        "Siskiyou County",
+        "Sutter County",
+        "Tehama County",
+        "Yolo County",
+        "Yuba County"
+    ],
+    "North Coast": [
+        "Del Norte County",
+        "Humboldt County",
+        "Lake County",
+        "Mendocino County",
+        "Napa County",
+        "Sonoma County",
+        "Trinity County"
+    ],
+    "San Francisco Bay Area": [
+        "Alameda County",
+        "Contra Costa County",
+        "Marin County",
+        "San Francisco County",
+        "San Mateo County",
+        "Santa Clara County",
+        "Solano County"
+    ],
+    "Northern San Joaquin Valley": [
+        "Alpine County",
+        "Amador County",
+        "Calaveras County",
+        "Madera County",
+        "Mariposa County",
+        "Merced County",
+        "Mono County",
+        "San Joaquin County",
+        "Stanislaus County",
+        "Tuolumne County"
+    ],
+    "Central Coast": [
+        "Monterey County",
+        "San Benito County",
+        "San Luis Obispo County",
+        "Santa Barbara County",
+        "Santa Cruz County",
+        "Ventura County"
+    ],
+    "Southern San Joaquin Valley": [
+        "Fresno County",
+        "Inyo County",
+        "Kern County",
+        "Kings County",
+        "Tulare County"
+    ],
+    "Inland Empire": [
+        "Riverside County",
+        "San Bernardino"
+    ],
+    "Los Angeles County": [
+        "Los Angeles County"
+    ],
+    "Orange County": [
+        "Orange County"
+    ],
+    "San Diego - Imperial": [
+        "Imperial County",
+        "San Diego County"
+    ]
+}
